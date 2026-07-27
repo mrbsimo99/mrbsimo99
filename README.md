@@ -22,11 +22,11 @@ Sviluppatore full stack junior, da Reggio Calabria. Costruisco applicazioni web 
 
 ## Progetto in evidenza
 
-**[TrovaTreno](https://trovatreno.net)** — monitoraggio in tempo reale dei treni Trenitalia.
+**[TrovaTreno](https://www.trovatreno.net)** — monitoraggio in tempo reale dei treni Trenitalia.
 
 Frontend in React, Vite e TailwindCSS. Una funzione serverless su Vercel concatena due endpoint non documentati di ViaggiaTreno e ne interpreta la risposta testuale delimitata, restituendola come JSON al client.
 
-Online su [trovatreno.net](https://trovatreno.net) — [codice](https://github.com/mrbsimo99/trovatreno)
+Online su [www.trovatreno.net](https://www.trovatreno.net) — [codice](https://github.com/mrbsimo99/trovatreno)
 
 ## Background
 
