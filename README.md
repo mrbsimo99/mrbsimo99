@@ -34,7 +34,7 @@ Cinque anni di attività imprenditoriale nell'e-commerce (2019-2024) su Amazon S
 
 ## In questo periodo
 
-- Bootcamp Full Stack Web Development completato alla MiaTech Academy (marzo-novembre 2025)
+- Bootcamp Full Stack Web Development completato alla MiaTech Academy (marzo-dicembre 2025)
 - Studio Angular: componenti, template, data binding, signals e componenti standalone
 - Cerco la mia prima opportunità come sviluppatore junior
 
